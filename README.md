@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrGerlach
 - 👀 I’m interested in music, love to play on my guitar and sing. Also the Bible student. 
-- 🌱 I’m currently learning JavaScript, but I used to learn Python and Matlab.
+- 🌱 I’m currently learning Swift, but I used to learn JavaScript basics, Python, Matlab.
 - 📫 How to reach me - try linkedin.com/in/gerlach-m
 
 <!---
