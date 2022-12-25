@@ -8,7 +8,7 @@
 
 - Good news!!! After 8 months of hard work in my spare time, I succeeded and completed the iOS Developer course!
 
-![Zrzut ekranu 2022-12-23 o 22 48 16](https://user-images.githubusercontent.com/97164057/209470036-3a34acdd-f3d6-4232-a4c1-8463000861ed.png)
+![Zrzut ekranu 2022-12-23 o 22 48 16](https://user-images.githubusercontent.com/97164057/209470036-3a34acdd-f3d6-4232-a4c1-8463000861ed.png =400x300)
 
 
 <!---
